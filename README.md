@@ -5,8 +5,8 @@ This repository contains a modern Flutter app generated from: **https://bayouart
 ## 📊 Extraction Summary
 - **Domain**: bayouarts.org
 - **Pages Found**: 16
-- **Assets Found**: 54
-- **Extracted**: 9/7/2025, 6:34:04 PM
+- **Assets Found**: 49
+- **Extracted**: 9/7/2025, 6:42:16 PM
 
 ## 🎨 Flutter App Features
 - **Modern Material Design 3** UI

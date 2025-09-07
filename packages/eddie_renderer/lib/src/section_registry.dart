@@ -31,7 +31,6 @@ class SectionRegistry {
     ),
     'quote': (data) => QuoteSection(
       text: data['text'] ?? '',
-      author: data['author'],
     ),
     'button': (data) => ButtonSection(
       text: data['text'] ?? '',
