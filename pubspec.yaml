@@ -1,0 +1,26 @@
+name: bayou_arts_universal
+description: A modern Flutter app generated from website data
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  eddie_renderer:
+    path: packages/eddie_renderer
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  eddie_renderer:
+    path: packages/eddie_renderer
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
